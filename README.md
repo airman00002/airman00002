@@ -1,5 +1,6 @@
-### Hi there 👋
-🔭 I’m currently working on developer
+## Hi there 👋
+#### สวัสดีครับ ผมชื่อแอร์ครับ 😄
+🌱 I’m currently learning developer
 
 
 <!--
