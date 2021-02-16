@@ -1,7 +1,7 @@
 ## Hi there 👋
 #### สวัสดีครับ ผมชื่อแอร์ครับ 😄
-🌱 I’m currently learning developer
-
+####🔭 ตอนนี้กำลังศึกษาเกี่ยวกับ Web developer ครับ
+🌱 😄
 
 <!--
 **airman00002/airman00002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
